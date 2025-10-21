@@ -5,8 +5,8 @@
 In this dashboard, I've explored a creative visualization technique using SVG Charts to build an intuitive calendar-style attendance tracker. This approach visually represents daily attendance metrics, clearly indicating days employees were present, on-site, remote, on-call, or on leave (sick/vacation).
 
 Key Highlights:
-● Interactive SVG Calendar: Enhanced user experience with visually engaging and intuitive design.
-● Quick Insights: At-a-glance metrics for Present, Sick, Vacation, and On-Call days.
+- Interactive SVG Calendar: Enhanced user experience with visually engaging and intuitive design.
+- Quick Insights: At-a-glance metrics for Present, Sick, Vacation, and On-Call days.
 
 # Snapshot of Dashboard
 
